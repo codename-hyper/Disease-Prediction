@@ -1,2 +1,2 @@
 # Disease-Symptom-Prediction
-Predicted 49 disease by their symtoms
+Predicted 41 disease by their symtoms
